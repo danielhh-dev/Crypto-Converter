@@ -14,7 +14,6 @@
 
 👤 **Daniel Hernandez**
 
-//* Website: https://PORTFOLIO.COM
 * Github: [@danielhh-dev](https://github.com/danielhh-dev)
 * LinkedIn: [@danielhhdev](https://linkedin.com/in/danielhhdev)
 
@@ -23,4 +22,3 @@
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
